@@ -1,0 +1,55 @@
+/* global styling */
+body {
+    /* padding added to top of body because of fixed navbar */
+    padding: 50px 0px 0px 0px;
+    z-index: 0;
+}
+
+/* Navbar styling */
+.navbar-dark {
+    background-color: #512Da8;
+}
+
+.navbar-brand {
+    padding-right: 25px;
+    font-size: 135%;
+}
+/* Styling for content */
+.row-header {
+    margin: 0 auto;
+    padding: 0 auto;
+}
+
+.row-content {
+    margin: 0 auto;
+    padding: 50px 0px;
+    border-bottom: 1px ridge;
+    min-height: 300px;
+}
+
+.jumbotron {
+    padding: 70px 30px;
+    margin: 0;
+    background-color: #9575cd;
+    color: floralwhite;
+}
+
+.tab-content {
+    border: 1px solid #ddd;
+    border-top: inherit;
+    padding: 10px;
+}
+
+/* Footer styling */
+.footer {
+    background-color: #d1c4e9;
+    margin: 0 auto;
+    padding: 20px 0px;
+}
+
+.address {
+    font-size: 80%;
+    margin: 0;
+    color: #0f0f0f;
+}
+
