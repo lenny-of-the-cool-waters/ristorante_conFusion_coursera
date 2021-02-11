@@ -29,4 +29,7 @@ Frontend web development project from coursera
     *** Honours content: UI design and Prototyping document ***
 4) Bootstrap Javascript components
     (a) Tabs, Pills and Tabbed navigation
+        => Bootstrap tabs JS behavior (https://getbootstrap.com/docs/4.0/components/navs/#javascript-behavior)
+    (b) Collapse and Accordion
+        =>
 
