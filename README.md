@@ -31,5 +31,9 @@ Frontend web development project from coursera
     (a) Tabs, Pills and Tabbed navigation
         => Bootstrap tabs JS behavior (https://getbootstrap.com/docs/4.0/components/navs/#javascript-behavior)
     (b) Collapse and Accordion
-        =>
+        => Accordion
+        => data-toggle, data-parent
+    (c) Tooltips, popovers and modals
+        => In order of ease of implementation (Inverse order of flexibility)
+        => Bootstrap advices to place modals at top of page
 
