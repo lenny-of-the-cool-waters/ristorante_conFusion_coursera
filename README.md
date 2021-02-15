@@ -36,4 +36,7 @@ Frontend web development project from coursera
     (c) Tooltips, popovers and modals
         => In order of ease of implementation (Inverse order of flexibility)
         => Bootstrap advices to place modals at top of page
+        => Bootstrap tooltips (http://getbootstrap.com/docs/4.0/components/tooltips/)
+        => Bootstrap popovers (http://getbootstrap.com/docs/4.0/components/popovers/)
+        => Bootstrap Modals (http://getbootstrap.com/docs/4.0/components/modal/)
 
